@@ -77,3 +77,4 @@ speak("Я тебя слушаю")
 stop_listening = r.listen_in_background(m, callback)
 while True: time.sleep(0.1) 
     
+print(1)
